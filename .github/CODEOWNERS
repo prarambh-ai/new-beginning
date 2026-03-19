@@ -1,0 +1,12 @@
+# .github/CODEOWNERS
+# Global fallback — all files
+*                   @prarambh-ai/platform-leads
+
+# Infrastructure configs require infra + security sign-off
+/infra/             @prarambh-ai/infra-team @prarambh-ai/security-team
+
+# CI/CD pipelines
+/.github/workflows/ @prarambh-ai/devops-team @prarambh-ai/security-team
+
+# Secrets config (should never contain actual secrets)
+/config/secrets.*   @prarambh-ai/security-team
