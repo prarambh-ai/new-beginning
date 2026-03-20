@@ -14,8 +14,8 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+Please DO NOT open a public GitHub issue to report a security vulnerability
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Instead, email us at: security@prarambh.ai
+
+We will respond within 48 hours and will keep you updated as we work on a fix.
